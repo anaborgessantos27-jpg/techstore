@@ -78,7 +78,7 @@ table:nth-of-type(2) {
   position: sticky;                           /* o menu "gruda" no topo da tela quando a página rola */
   top: 0;                                     /* gruda exatamente no topo */
   z-index: 10;                                /* fica por cima das outras coisas ao rolar */
-  background-color: #ffffff;                  /* menu em faixa branca, separa o topo escuro do conteúdo */
+  background-color: #1f5a22;                  /* menu em faixa branca, separa o topo escuro do conteúdo */
   box-shadow: 0 2px 10px rgba(22, 3, 74, 0.08); /* sombra leve embaixo do menu, dá sensação de "flutuar" */
 }
 
