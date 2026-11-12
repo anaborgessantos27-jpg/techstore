@@ -84,11 +84,11 @@ table:nth-of-type(2) {
 
 table:nth-of-type(2) td {
   padding: 12px;                              /* altura da faixa do menu */
-  color: #cfcbe0;                             /* cor das barrinhas | entre os links (cinza claro, discretas) */
+  color: #074910;                             /* cor das barrinhas | entre os links (cinza claro, discretas) */
 }
 
 a {
-  color: #16034a;                             /* cor dos links (azul-marinho da marca) */
+  color: #064d1b;                             /* cor dos links (azul-marinho da marca) */
   text-decoration: none;                      /* tira o sublinhado */
   font-weight: 600;                           /* links em seminegrito */
   padding: 6px 14px;                          /* área em volta do link, fica mais fácil de clicar */
@@ -134,7 +134,7 @@ h2 + table {
 
 h2 + table td {
   background-color: #214e27;                  /* fundo branco do cartão, destaca do fundo cinza da página */
-  border: 1px solid #e4e1ee;                  /* borda fina e clara do cartão */
+  border: 1px solid #0c4205;                  /* borda fina e clara do cartão */
   border-radius: 16px;                        /* cantos arredondados */
   padding: 20px;                              /* espaço interno do cartão */
   vertical-align: top;                        /* conteúdo começa no topo, mesmo se um cartão tiver mais texto */
